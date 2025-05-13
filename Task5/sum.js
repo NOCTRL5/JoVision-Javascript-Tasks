@@ -5,6 +5,6 @@ function sum() {
         arr.push(i);
         if(i%2==0)
             s += i;
-    }
+    } 
     alert("The sum is " + s);
 }
